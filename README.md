@@ -1,4 +1,5 @@
 📑This Repo serves as a Business case study. Providing Solution , Insights and Recommendation for the growth in their Revenue through sql queries.
+
 🔎This SQL solutions done in Google BigQuery
 
 🔗If you have any questions, reach out to me on LinkedIn.
