@@ -10,7 +10,7 @@
 
  🔎This SQL solutions done in `Google BigQuery`
 
- 🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/).
+ 🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/touqeer-islam-053374168/).
 
 🚀 Welcome to the Target Data Analysis project! 🎉
 
